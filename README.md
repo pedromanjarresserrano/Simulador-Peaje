@@ -2,17 +2,16 @@
 
 El software Sistema de Simulación de Peaje es una herramienta que mediante el uso de números pseudo aleatorios, pruebas estadísticas y simulaciones, nos permite simular el comportamiento de una Estación de Peaje mediante el uso de procesos matemáticos.
 
-{% page-ref page="instalando-el-software.md" %}
+# Table of contents
 
-{% page-ref page="explicacion-de-la-funcionalidad.md" %}
+* [Simulador-Peaje](README.md)
+* [Instalando El Software](instalando-el-software.md)
+* [Explicación De La Funcionalidad](explicacion-de-la-funcionalidad.md)
+* [MENÚ: Generadores](menu-generadores.md)
+* [Generación de Números Aleatorios](generacion-de-numeros-aleatorios.md)
+* [MENÚ: Simulación](menu-simulacion/README.md)
+  * [SUB-MENÚ: Configuraciones](menu-simulacion/sub-menu-configuraciones.md)
 
-{% page-ref page="menu-generadores.md" %}
-
-{% page-ref page="generacion-de-numeros-aleatorios.md" %}
-
-{% page-ref page="menu-simulacion/" %}
-
-{% page-ref page="menu-simulacion/sub-menu-configuraciones.md" %}
 
 
 
